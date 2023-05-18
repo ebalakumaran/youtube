@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="daef9d58-99de-4a27-8d67-7159c5121fd4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Excel_generation_view_tamil.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excel_generation_view_tamil.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/blank_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blank_video_with_audio.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/blank_video_with_audio.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_open_tamil.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_open_tamil.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mergingFolder/2.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/mergingFolder/2.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank_1_final_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/rank_1_final_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rank_3_final_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/rank_3_final_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tamil_open_1.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/tamil_open_1.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tamil_open_2.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/tamil_open_2.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tamil_open_3.mp3" beforeDir="false" afterPath="$PROJECT_DIR$/tamil_open_3.mp3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thumbnail_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/thumbnail_video.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/1 - Irfan's view ( My Wedding).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/10 - Ramya's Moments ( Americaல more).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/3 - Tamil Facts ( what are doing).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/4 - Saregama TV Shows Tamil ( Iniya Serial).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/7 - News18 Tamil Nadu ( Nandhini ).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/8 - Saregama TV Shows Tamil ( INIYA Serial).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_channel_logo/9 - ShakiAnki ( For mom too For the son).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/1 - Irfan's view ( My Wedding).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/10 - Ramya's Moments ( Americaல more).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/2 - Sun TV ( Ethirneechal ).txt" beforeDir="false" afterPath="$PROJECT_DIR$/video_desc_tamil/2 - Sun TV ( Ethirneechal ).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/3 - Tamil Facts ( what are doing).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/4 - Saregama TV Shows Tamil ( Iniya Serial).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/5 - Saregama TV Shows Tamil ( INIYA Serial).txt" beforeDir="false" afterPath="$PROJECT_DIR$/video_desc_tamil/5 - Saregama TV Shows Tamil ( INIYA Serial).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/6 - Sun TV ( Sundari ).txt" beforeDir="false" afterPath="$PROJECT_DIR$/video_desc_tamil/6 - Sun TV ( Sundari ).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/7 - News18 Tamil Nadu ( Nandhini ).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/8 - Saregama TV Shows Tamil ( INIYA Serial).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_desc_tamil/9 - ShakiAnki ( For mom too For the son).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_names_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/video_names_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/1 - Irfan's view ( My Wedding).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/10 - Ramya's Moments ( Americaல more).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/2 - Sun TV ( Ethirneechal ).png" beforeDir="false" afterPath="$PROJECT_DIR$/video_thumbnails_tamil/2 - Sun TV ( Ethirneechal ).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/3 - Tamil Facts ( what are doing).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/4 - Saregama TV Shows Tamil ( Iniya Serial).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/5 - Saregama TV Shows Tamil ( INIYA Serial).png" beforeDir="false" afterPath="$PROJECT_DIR$/video_thumbnails_tamil/5 - Saregama TV Shows Tamil ( INIYA Serial).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/6 - Sun TV ( Sundari ).png" beforeDir="false" afterPath="$PROJECT_DIR$/video_thumbnails_tamil/6 - Sun TV ( Sundari ).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/7 - News18 Tamil Nadu ( Nandhini ).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/8 - Saregama TV Shows Tamil ( INIYA Serial).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_thumbnails_tamil/9 - ShakiAnki ( For mom too For the son).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/video_views_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/video_views_file.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PPVzP3LfM1JoH3eSWQUViOKTt5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/youtube-main/complete video creation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\youtube-main\complete video creation" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="createRankingVideo" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="bar_chart" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\Desktop\BALA\Collegeproject\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/complete video creation" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/complete video creation/createRankingVideo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daef9d58-99de-4a27-8d67-7159c5121fd4" name="Changes" comment="" />
+      <created>1683358966280</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683358966280</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
